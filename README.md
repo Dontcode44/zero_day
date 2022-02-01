@@ -1,1 +1,1 @@
-This is my first proyect on git.
+This is my first push on git.
